@@ -896,7 +896,7 @@
               <a href="ProductServlet"><i class="fas fa-tags"></i> Products</a>
             </li>
             <li>
-              <a href="ServiceServlet"><i class="fas fa-cogs"></i> Services</a>
+              <a href="service.jsp"><i class="fas fa-cogs"></i> Services</a>
             </li>
             <li>
               <a href="CartServlet"><i class="fas fa-shopping-cart"></i> Cart</a>
